@@ -1,0 +1,10 @@
+/* Write some css! */
+
+.itemList__item{
+  height: 30px;
+  overflow: hidden;
+}
+
+.expand {
+  height: 300px;
+}
